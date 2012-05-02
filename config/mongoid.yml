@@ -1,0 +1,4 @@
+# TODO: Well, you know, decide how we're going to deploy these.
+development:
+  host: localhost
+  database: bar-funsies

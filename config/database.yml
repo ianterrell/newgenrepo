@@ -1,0 +1,20 @@
+development:
+  adapter: mysql
+  repositories:
+    '4fa143f1f3f90e119e000185':
+      adapter: mysql
+      host: "localhost"
+      database: "chameleons"
+      port: 3306
+      username: "root"
+ 
+production:
+  adapter: mysql
+  repositories:
+    '4fa143f1f3f90e119e000185':
+      adapter: mysql
+      host: "localhost"
+      database: "chameleons"
+      port: 3306
+      username: "root"
+ 
